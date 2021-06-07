@@ -1,0 +1,49 @@
+.header h3 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    padding-top: 50px;
+    position: relative;
+    flex-wrap: wrap;
+}
+
+.isi p {
+    font-family: 'Kanit', sans-serif;
+    font-size: 16px;
+    text-align: left;
+}
+
+.header-negara h3 {
+    font-family: 'Kanit', sans-serif;
+    font-size: 24px;
+    color: #c0aa83;
+    font-weight: 700;
+}
+
+.btnbawah {
+    background-color: #c0aa83;
+    border-color: nrgb(219, 170, 107);
+    color: white;
+    border-color: rgb(219, 170, 107);
+    border-radius: 0px;
+    border-width: 1px;
+    width: 200px;
+    height: 50px;
+    font-size: large;
+    align-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+.btnbawah:hover {
+    background-color: #c0aa83;
+    border: none;
+}
+
+.btnbawahh {
+    padding-top: 30px;
+}
+
+.header_client h3 {
+    color: yellow;
+}
